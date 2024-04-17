@@ -1,0 +1,44 @@
+.card
+{
+  height: 470px;
+  padding-top: 10%;
+  margin-top: 10%;
+}
+.cardImage
+{
+    height: 200px;
+    object-fit: contain;
+}
+.cardTitle
+{
+  height: 50px;
+  overflow: hidden;
+}
+.cardDesc
+{
+  height: 70px;
+  overflow: hidden;
+}
+.usersHeader
+{
+    font-size: 25px;
+    color: cadetblue;
+    font-weight: bolder;
+}
+.productDetailsImageCT
+{
+  height: fit-content;
+  width: fit-content;
+  overflow: hidden;
+}
+.productDetailsImage
+{
+  width: 320px;
+  object-fit: contain;
+}
+.price
+{
+  font-size: 30px;
+  font-weight: bold;
+  color: darkcyan;
+}
